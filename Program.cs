@@ -15,7 +15,7 @@ namespace ProGitForProgrammers
 
 	public class Calculator
 	{
-		public int Add (int left, int right)
+		public int Add (int leftt, int rightt)
 		{
 			return left + right;
 		}
